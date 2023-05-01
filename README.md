@@ -1,4 +1,3 @@
-fdo:wq
 ### Installing Metasploit3 to build Win2k8 box using/on Windows.
 ## Installing Vagrant
 Restart your PC.
