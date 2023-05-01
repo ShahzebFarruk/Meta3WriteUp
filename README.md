@@ -9,7 +9,7 @@ If no output shows up then vagrant is not installed. If you see output like Vagr
 
 Open cmd type ```vagrant plugin install vagrant-vbguest```. Note this can take sometime so wait don't hurry and stop the cmd prompt. Output will look something like this:
 
-```C:\Users\Parzival>vagrant plugin install vagrant-vbguest
+``` C:\Users\Parzival>vagrant plugin install vagrant-vbguest
 Installing the 'vagrant-vbguest' plugin. This can take a few minutes...
 Fetching micromachine-3.0.0.gem
 Fetching vagrant-vbguest-0.31.0.gem
