@@ -1,6 +1,6 @@
 ### Installing Metasploit3 to build Win2k8 box using/on Windows.
 ## Installing Vagrant
-Restart your PC.
+Download the [Vagrnat Software for Windows!https://developer.hashicorp.com/vagrant/downloads] and install it. Then Restart your PC.
 
 Then disable Windows Firewall Defender.
 Now we have to install vargant plugins. So test if vagrant is installed? Open cmd and type ```vagrant --version```
