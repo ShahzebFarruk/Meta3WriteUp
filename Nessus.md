@@ -5,5 +5,5 @@ Initial username and passwd are wizard and admin, respectively.
 Go to instance: 192.168.0.127:8000
 
 After you login change the username & passwd to:
-username:admin1
+username:admin passwd:TenableNessus!123
 
