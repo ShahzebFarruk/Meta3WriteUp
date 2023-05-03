@@ -9,7 +9,8 @@ username:admin passwd:TenableNessus!123
 
 Click on Nessus on the interface; go to the link 10.0.2.5:8834
 
-Go thorough the activation process: (Perform Offline Activation) ### "But activation doesn't work for me"
+ ### Try it out "But activation doesn't work for me, as I am going for trial"
+Go thorough the activation process: (Perform Offline Activation)
   In activation process get the activation code by logging in to the Nessuscli server.
   ```
   sudo su
