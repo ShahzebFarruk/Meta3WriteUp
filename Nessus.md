@@ -7,3 +7,11 @@ Go to instance: 192.168.0.127:8000
 After you login change the username & passwd to:
 username:admin passwd:TenableNessus!123
 
+Click on Nessus on the interface; go to the link 10.0.2.5:8834
+
+Go thorough the activation process: (Perform Offline Activation)
+  In activation process get the activation code by logging in to the Nessuscli server.
+  ```
+  sudo su
+  cd /opt/nessus/sbin/nessuscli fetch --challenge.
+  ```
