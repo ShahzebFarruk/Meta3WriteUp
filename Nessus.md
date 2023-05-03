@@ -13,5 +13,5 @@ Go thorough the activation process: (Perform Offline Activation)
   In activation process get the activation code by logging in to the Nessuscli server.
   ```
   sudo su
-  cd /opt/nessus/sbin/nessuscli fetch --challenge.
+  sudo /opt/nessus/sbin/nessuscli fetch --challenge.
   ```
