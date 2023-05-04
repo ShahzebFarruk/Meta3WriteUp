@@ -22,7 +22,7 @@ Here is the list of Nmap Commands:
 
 >   To scan UDP port 53:
 
-     `nmap -p U:53 192.168.1.1`
+     nmap -p U:53 192.168.1.1
 
  >    To scan the range of ports:
 
