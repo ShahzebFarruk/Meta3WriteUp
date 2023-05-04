@@ -1,7 +1,7 @@
 ### Nmap commands
 
 Nmap Commands:
-Here is the list of Nmap Commands
+Here is the list of Nmap Commands:
 
 1. Scan a Range of IP Address
 2. Port Scanning
@@ -16,7 +16,7 @@ Here is the list of Nmap Commands
 `nmap 192.168.1.1-24`
 
 2. Port Scanning: There are multiple commands in Nmap for scanning ports such as:
-To scan TCP port 80, the following Nmap command can be used:
+> To scan TCP port 80, the following Nmap command can be used:
 
 `nmap -p T:80 192.168.1.1`
 
