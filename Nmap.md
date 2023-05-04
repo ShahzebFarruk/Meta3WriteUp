@@ -13,12 +13,12 @@ Here is the list of Nmap Commands:
 8. Service Version Detection
 
 #### 1. Scan a Range of IP Address: To scan a range of IP addresses, the Nmap command is as follows:
-     `nmap 192.168.1.1-24`
+     nmap 192.168.1.1-24
 
 #### 2. Port Scanning: There are multiple commands in Nmap for scanning ports such as:
 >   To scan TCP port 80, the following Nmap command can be used:
 
-      `nmap -p T:80 192.168.1.1`
+      nmap -p T:80 192.168.1.1
 
 >   To scan UDP port 53:
 
