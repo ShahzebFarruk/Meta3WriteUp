@@ -31,7 +31,7 @@ Here is the list of Nmap Commands:
 
         `nmap -p U:53, 112, 135, T:80, 8080 192.168.1.1`
 #### 3. Ping Scan Using Nmap: It can be used for host discovery and the following command can be used:
-     ```nmap -sP 192.168.1.1/20```
+     nmap -sP 192.168.1.1/20
 #### 4. Saving the Nmap Scan Output to a File: The syntax for the command to save the Nmap output to a text file is as follows:
        `nmap 192.168.1.1 > op.txt`
       `nmap -oN /temp/files/output/ 192.168.1.1`
