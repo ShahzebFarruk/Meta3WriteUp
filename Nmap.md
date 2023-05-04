@@ -59,7 +59,9 @@ For just the host scan use -sn. - Host Discovery>Ping Scan
      nmap -v -A 192.168.1.1
      nmap -A -iL /user/temp/list.txt
      
-
+Take a look at [Nmap CheatSheet.](https://github.com/jasonniebauer/Nmap-Cheatsheet)
+     
+[https://nmap.org/book/man-briefoptions.html](https://nmap.org/book/man-briefoptions.html)
 ```
 
 Nmap 7.93SVN ( https://nmap.org )
