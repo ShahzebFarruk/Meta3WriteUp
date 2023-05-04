@@ -60,7 +60,7 @@ For just the host scan use -sn. - Host Discovery>Ping Scan
      nmap -A -iL /user/temp/list.txt
      
 
-
+```
 
 Nmap 7.93SVN ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
@@ -177,3 +177,4 @@ EXAMPLES:
   nmap -v -sn 192.168.0.0/16 10.0.0.0/8
   nmap -v -iR 10000 -Pn -p 80
 SEE THE MAN PAGE (https://nmap.org/book/man.html) FOR MORE OPTIONS AND EXAMPLES
+```
