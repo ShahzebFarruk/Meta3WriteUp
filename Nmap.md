@@ -12,9 +12,9 @@ Here is the list of Nmap Commands:
 7. Exclude Host/ IP Addresses for the Scan
 8. Service Version Detection
 
-#### 1. Scan a Range of IP Address: To scan a range of IP addresses, the Nmap command is as follows:
+#### 1. Scan a Range of IP Address: To scan a range of IP addresses and open ports, the Nmap command is as follows:
      nmap 192.168.1.1-24
-
+For just the host scan use -sn
 #### 2. Port Scanning: There are multiple commands in Nmap for scanning ports such as:
 >   To scan TCP port 80, the following Nmap command can be used:
 
