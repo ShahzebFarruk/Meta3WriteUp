@@ -12,25 +12,25 @@ Here is the list of Nmap Commands:
 7. Exclude Host/ IP Addresses for the Scan
 8. Service Version Detection
 
-> 1. Scan a Range of IP Address: To scan a range of IP addresses, the Nmap command is as follows:
-  `nmap 192.168.1.1-24`
+#### 1. Scan a Range of IP Address: To scan a range of IP addresses, the Nmap command is as follows:
+     `nmap 192.168.1.1-24`
 
-> 2. Port Scanning: There are multiple commands in Nmap for scanning ports such as:
+#### 2. Port Scanning: There are multiple commands in Nmap for scanning ports such as:
 >   To scan TCP port 80, the following Nmap command can be used:
 
-  `nmap -p T:80 192.168.1.1`
+      `nmap -p T:80 192.168.1.1`
 
 >   To scan UDP port 53:
 
-  `nmap -p U:53 192.168.1.1`
+     `nmap -p U:53 192.168.1.1`
 
  >    To scan the range of ports:
 
-  `nmap -p 80-160 192.168.1.1`
+     `nmap -p 80-160 192.168.1.1`
 We can also combine all these commands to scan multiple ports:
 
-nmap -p U:53, 112, 135, T:80, 8080 192.168.1.1
-3. Ping Scan Using Nmap: It can be used for host discovery and the following command can be used:
+        `nmap -p U:53, 112, 135, T:80, 8080 192.168.1.1`
+#### 3. Ping Scan Using Nmap: It can be used for host discovery and the following command can be used:
 nmap -sP 192.168.1.1/20
 4. Saving the Nmap Scan Output to a File: The syntax for the command to save the Nmap output to a text file is as follows:
 nmap 192.168.1.1 > op.txt
