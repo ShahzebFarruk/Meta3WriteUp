@@ -8,4 +8,4 @@ msf6 >
 ```
 
 Windows Domain Server Setup:
-Passwd:WindowsServer!2016
+Passwd:Vpn!123
