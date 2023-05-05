@@ -6,3 +6,6 @@
 msf6 > 
 
 ```
+
+Windows Domain Server Setup:
+Passwd:WindowsServer!2016
