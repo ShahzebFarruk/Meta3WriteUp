@@ -126,4 +126,20 @@ Then do this:
 
     python3 /usr/lib/python3/dist-packages/sublist3r.py -v -d google.com
 
-    
+### Metasploit:
+To check the open port for metasploit/ postgresql:
+
+    sudo netstat -plunt |grep postgres 
+    service <srv> status
+    systemctl status <srv>
+https://www.hackers-arise.com/post/2017/03/29/metasploit-basics-part-4-connecting-and-using-the-postgresql-database-with-metasploit
+
+    Step #1: Start the postgresql Database
+    msfdb status
+    msfdb init 
+    msfconsole
+    Step #3: Working with Workspaces
+    workspace 
+    workspace -a hackersarise
+    Step #6 Database Commands
+    help
