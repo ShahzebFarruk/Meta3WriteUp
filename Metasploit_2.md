@@ -90,3 +90,40 @@ https://hackertarget.com/recon-ng-tutorial/
 
 ---
 ### theHarvester:
+```
+theHarvester -d microsoft.com -l 200 -b bing
+```
+
+### Sublist3r
+    git clone https://github.com/aboul3la/Sublist3r.git
+    - OR 
+    gh repo clone aboul3la/Sublist3r
+    
+    pip install -r requirements.txt
+
+    sublist3r -d georgiancollege.ca 
+
+    - Or try 
+    python3 /usr/lib/python3/dist-packages/sublist3r.py -v -d example.com
+
+    You may link the installation dir with [optional]
+        ln -sf /opt/Sublist3r/sublist3r.py /usr/bin/sublist3r
+        cd ~
+        if you go to home dir now or any dir you may be able to run the tool.
+
+Errors found: If you get this error: 
+    [!] Error: Virustotal probably now is blocking our requests #346
+
+Then do this:
+
+    https://github.com/aboul3la/Sublist3r/issues/346
+
+    This has been the case since April or something. Row 940 in sublist3r.py:
+    Change:
+            NetcraftEnum, DNSdumpster, Virustotal, ThreatCrowd,
+    To:
+            NetcraftEnum, DNSdumpster, ThreatCrowd,
+
+    python3 /usr/lib/python3/dist-packages/sublist3r.py -v -d google.com
+
+    
