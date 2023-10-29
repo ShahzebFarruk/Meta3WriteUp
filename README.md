@@ -1,5 +1,5 @@
 ### Installing Metasploitable3 to build Win2k8 box using/on Windows.
-If you want to get direct VMs that I'm using for Metasploitable3. Use this [Google Drive link](https://drive.google.com/drive/folders/1gMVka_GJBoK83rqmh53brZ97ukTtUJQZ?usp=sharing) to download and directly import the .0va files into VirtualBox to use start hacking....!
+If you want to get direct VMs that I'm using for Metasploitable3. Use this [Google Drive link](https://drive.google.com/drive/folders/1gMVka_GJBoK83rqmh53brZ97ukTtUJQZ?usp=sharing) to download and directly import the .0va files into VirtualBox to use start hacking....! Hurray you can now skip and the below process..!
 
 
 ## Step1: Install VirtualBox
