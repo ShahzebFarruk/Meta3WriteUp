@@ -26,7 +26,8 @@ Fetching vagrant-reload-0.0.1.gem
 Installed the plugin 'vagrant-reload (0.0.1)'!
 ```
 
-Open PowerShell in Administrator mode. Got to the Working Directory of Metasploit3.
+Open PowerShell in Administrator mode. 
+&nbsp; Got to the Working Directory of Metasploit3.
 ``` 
 cd C:\Users\user1\Desktop/<your_dir_where_metasploitable3-master_is>\metasploitable3-master\metasploitable3-master
 ./build.ps1 windows2008 
