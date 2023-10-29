@@ -1,4 +1,7 @@
 ### Installing Metasploit3 to build Win2k8 box using/on Windows.
+## Install Packer
+The process is straighforward. Go to [Packer](https://developer.hashicorp.com/packer/downloads). Download and install packer. I used ```AMD64 Version: 1.9.4```
+
 ## Installing Vagrant
 Download the [Vagrant Software for Windows](https://developer.hashicorp.com/vagrant/downloads) and install it. Then Restart your PC.
 
