@@ -17,7 +17,8 @@ Fetching micromachine-3.0.0.gem
 Fetching vagrant-vbguest-0.31.0.gem
 Installed the plugin 'vagrant-vbguest (0.31.0)'!
 ```
-Now install Plugin-2: Type ``` vagrant plugin install vagrant-reload ```. This will also take somtime(took me 5 mins). Output looks like this.
+Now install Plugin-2: 
+* Type ``` vagrant plugin install vagrant-reload ```. This will also take somtime(took me 5 mins). Output looks like this.
 ```
 C:\Users\user1>vagrant plugin install vagrant-reload
 Installing the 'vagrant-reload' plugin. This can take a few minutes...
