@@ -1,8 +1,14 @@
-### Installing Metasploit3 to build Win2k8 box using/on Windows.
-## Install Packer
+### Installing Metasploitable3 to build Win2k8 box using/on Windows.
+If you want to get direct VMs that I'm using for Metasploitable3. Use this [Google Drive link](https://drive.google.com/drive/folders/1gMVka_GJBoK83rqmh53brZ97ukTtUJQZ?usp=sharing) to download and directly import the .0va files into VirtualBox to use start hacking....!
+
+
+## Step1: Install VirtualBox
+Download and install VirtualBox. Go to [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads).
+
+## Step2: Install Packer
 The process is straighforward. Go to [Packer](https://developer.hashicorp.com/packer/downloads). Download and install packer. I used ```AMD64 Version: 1.9.4```
 
-## Installing Vagrant
+## Step3: Installing Vagrant
 Download the [Vagrant Software for Windows](https://developer.hashicorp.com/vagrant/downloads) and install it. Then Restart your PC.
 
 Then disable Windows Firewall Defender.
@@ -28,7 +34,7 @@ Installing the 'vagrant-reload' plugin. This can take a few minutes...
 Fetching vagrant-reload-0.0.1.gem
 Installed the plugin 'vagrant-reload (0.0.1)'!
 ```
-## Installing Metasploitable3 through script:
+## Step4: Installing Metasploitable3 through script:
 Open PowerShell in Administrator mode.    
 
 &nbsp; Got to the Working Directory of Metasploit3 & install ./build.ps1 (This is the script that will install Metasploitable3):   
