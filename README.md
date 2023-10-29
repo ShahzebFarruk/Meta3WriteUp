@@ -3,8 +3,9 @@
 Download the [Vagrant Software for Windows](https://developer.hashicorp.com/vagrant/downloads) and install it. Then Restart your PC.
 
 Then disable Windows Firewall Defender.
-Now we have to install vargant plugins. So test if vagrant is installed? Open cmd and type ```vagrant --version```
-If no output shows up then vagrant is not installed. If you see output like Vagrant 2.3.4(latest version in April 2023) then proceed.
+Now we have to install vargant plugins. So test if vagrant is installed? 
+    * Open cmd and type ```vagrant --version```
+    * If no output shows up then vagrant is not installed. If you see output like Vagrant 2.3.4(latest version in April 2023) then proceed.
 
 Open cmd & Type ```vagrant plugin install vagrant-vbguest```. Note this can take sometime so wait don't hurry and stop the cmd prompt(took me 4 mins). Output will look something like this:
 OUTPUT:
