@@ -25,7 +25,7 @@ Installing the 'vagrant-reload' plugin. This can take a few minutes...
 Fetching vagrant-reload-0.0.1.gem
 Installed the plugin 'vagrant-reload (0.0.1)'!
 ```
-
+## Installing Metasploitable3 through script:
 Open PowerShell in Administrator mode.    
 
 &nbsp; Got to the Working Directory of Metasploit3 & install ./build.ps1 (This is the script that will install Metasploitable3):   
