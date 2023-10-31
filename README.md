@@ -51,4 +51,4 @@ Open PowerShell in Administrator mode.
 cd C:\Users\user1\Desktop/<your_dir_where_metasploitable3-master_is>\metasploitable3-master\metasploitable3-master
 ./build.ps1 windows2008 
 ```
-This will build a windows2008 server version of Metaspolit3.(took me 5 mins) This will setup the box and once this is done type ```vagrant up``` to setup the box.
+This will build a windows2008 server version of Metaspolitable3.(took me 5 mins) This will setup the box and once this is done type ```vagrant up``` to setup the box.
