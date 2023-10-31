@@ -39,7 +39,7 @@ Download or Clone [this](https://github.com/rapid7/metasploitable3) repository a
 ```
 git clone https://github.com/rapid7/metasploitable3.git
 ```
-After you clone or download this link it will give you the ```metasploitable3-master`` folder
+After you clone or download this link it will give you the ```metasploitable3-master``` folder
 
 ## Step5: Installing Metasploitable3 through script:
 Open PowerShell in Administrator mode.    
