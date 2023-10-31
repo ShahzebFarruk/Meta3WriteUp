@@ -34,7 +34,12 @@ Installing the 'vagrant-reload' plugin. This can take a few minutes...
 Fetching vagrant-reload-0.0.1.gem
 Installed the plugin 'vagrant-reload (0.0.1)'!
 ```
-## Step4: Installing Metasploitable3 through script:
+## Step4: Clone the Metasploitable3 Repo:
+Clone [this](https://github.com/rapid7/metasploitable3) repository and build your own box.
+```git clone gh repo clone rapid7/metasploitable3
+```
+
+## Step5: Installing Metasploitable3 through script:
 Open PowerShell in Administrator mode.    
 
 &nbsp; Got to the Working Directory of Metasploit3 & install ./build.ps1 (This is the script that will install Metasploitable3):   
