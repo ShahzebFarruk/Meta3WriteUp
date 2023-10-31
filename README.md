@@ -37,7 +37,7 @@ Installed the plugin 'vagrant-reload (0.0.1)'!
 ## Step4: Clone the Metasploitable3 Repo:
 Clone [this](https://github.com/rapid7/metasploitable3) repository and build your own box.
 ```
-git clone rapid7/metasploitable3
+git clone https://github.com/rapid7/metasploitable3.git
 ```
 
 ## Step5: Installing Metasploitable3 through script:
