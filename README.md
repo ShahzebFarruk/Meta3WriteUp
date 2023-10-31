@@ -40,6 +40,7 @@ Download or Clone [this](https://github.com/rapid7/metasploitable3) repository a
 git clone https://github.com/rapid7/metasploitable3.git
 ```
 After you clone or download this link it will give you the ```metasploitable3-master``` folder
+You can move this directory or folder wherever you want and this is where your Metasploitable3 VM will be made and available so feel free to move this folder to the place you wish. I put mine on Desktop.
 
 ## Step5: Installing Metasploitable3 through script:
 Open PowerShell in Administrator mode.    
